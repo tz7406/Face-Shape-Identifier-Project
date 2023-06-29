@@ -11,3 +11,5 @@ this project was ResNet18 for image recognition and classification
 into several categories. 
 
 DATASET USED: https://www.kaggle.com/datasets/niten19/face-shape-dataset 
+
+VIDEO DEMONSTRATION: https://youtu.be/PuC9jTQbTI0 

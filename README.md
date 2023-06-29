@@ -1,4 +1,4 @@
-# fsp
+# Face Shape Identifier
 PROJECT TITLE: Face Shape identifier (Square/Round/Oval/Oblong/Heart)
 
 PROJECT DESCRIPTION: This network was trained with 2500 images of 
